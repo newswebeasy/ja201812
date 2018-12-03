@@ -1,0 +1,50 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "もめごと。",
+          "hyouki": [
+            "トラブル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などの<ruby><rb>故障</rb><rt>こしょう</rt></ruby>。",
+          "hyouki": [
+            "トラブル"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。",
+          "hyouki": [
+            "無料"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ちがうことばを<ruby><rb>話</rb><rt>はな</rt></ruby>す<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>って、<ruby><rb>両方</rb><rt>りょうほう</rt></ruby>のことばを<ruby><rb>翻訳</rb><rt>ほんやく</rt></ruby>して<ruby><rb>伝</rb><rt>つた</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "通訳"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。",
+          "hyouki": [
+            "サービス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "サービス"
+          ]
+        }
+      ]
+    }
+  }
+}

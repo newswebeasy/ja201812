@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011731191000",
+  "news_prearranged_time": "2018-12-03 16:20:00",
+  "title": "「エスカレーターでは歩かないで」大学生がデザインを考える",
+  "title_with_ruby": "「エスカレーターでは<ruby>歩<rt>ある</rt></ruby>かないで」<ruby>大学生<rt>だいがくせい</rt></ruby>がデザインを<ruby>考<rt>かんが</rt></ruby>える",
+  "outline_with_ruby": "<p>エスカレーターでは、<ruby>急<rt>いそ</rt></ruby>いでいる<ruby>人<rt>ひと</rt></ruby>のために、<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>片方<rt>かたほう</rt></ruby></a>を<a href='javascript:void(0)' class='dicWin' id='id-0002'>あけ</a>て<ruby>乗<rt>の</rt></ruby>る<ruby>習慣<rt>しゅうかん</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>広<rt>ひろ</rt></ruby>まっ</a>ています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181201/../20181201/K10011731191_1812011735_1812011739_01_02.jpg",
+  "news_web_movie_uri": "k10011731191_201812011943_201812011945.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011731191000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011731191000/k10011731191000.html"
+}

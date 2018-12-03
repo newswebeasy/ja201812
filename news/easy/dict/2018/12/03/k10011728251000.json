@@ -1,0 +1,124 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>。",
+          "hyouki": [
+            "ミルク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>をにつめたり、<ruby><rb>粉</rb><rt>こな</rt></ruby>にしたりしたもの。",
+          "hyouki": [
+            "ミルク"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>包</rb><rt>つつ</rt></ruby>むこと。<ruby><rb>包</rb><rt>つつ</rt></ruby>んだもの。また、<ruby><rb>容器</rb><rt>ようき</rt></ruby>などにつめること。<ruby><rb>容器</rb><rt>ようき</rt></ruby>。",
+          "hyouki": [
+            "パック"
+          ]
+        },
+        {
+          "def": "<ruby><rb>栄養</rb><rt>えいよう</rt></ruby>をあたえるものをぬって、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>をきれいにする<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。",
+          "hyouki": [
+            "パック"
+          ]
+        },
+        {
+          "def": "<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>で、<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>・ホテル・<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>先</rb><rt>さき</rt></ruby>などをひとまとめにしたもの。パッケージ<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>。",
+          "hyouki": [
+            "パック"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に、ほかのものを<ruby><rb>入</rb><rt>い</rt></ruby>れて<ruby><rb>混</rb><rt>ま</rt></ruby>ぜ<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。",
+          "hyouki": [
+            "溶かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>固</rb><rt>かた</rt></ruby>まっている<ruby><rb>物</rb><rt>もの</rt></ruby>を、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>などで<ruby><rb>液体</rb><rt>えきたい</rt></ruby>のようにする。",
+          "hyouki": [
+            "溶かす"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>が<ruby><rb>安</rb><rt>やす</rt></ruby>らかで、ゆったりしていること。",
+          "hyouki": [
+            "楽"
+          ]
+        },
+        {
+          "def": "たやすいこと。",
+          "hyouki": [
+            "楽"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。",
+          "hyouki": [
+            "厚生労働省"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れる<ruby><rb>器</rb><rt>うつわ</rt></ruby>。",
+          "hyouki": [
+            "入れ物"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>る。",
+          "hyouki": [
+            "認める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>確</rb><rt>たし</rt></ruby>かにそのとおりだと<ruby><rb>判断</rb><rt>はんだん</rt></ruby>する。",
+          "hyouki": [
+            "認める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>承知</rb><rt>しょうち</rt></ruby>する。<ruby><rb>許</rb><rt>ゆる</rt></ruby>す。",
+          "hyouki": [
+            "認める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちがあると<ruby><rb>考</rb><rt>かんが</rt></ruby>える。<ruby><rb>評価</rb><rt>ひょうか</rt></ruby>する。",
+          "hyouki": [
+            "認める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>確</rb><rt>たし</rt></ruby>かに<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のしたことであると<ruby><rb>同意</rb><rt>どうい</rt></ruby>する。",
+          "hyouki": [
+            "認める"
+          ]
+        }
+      ]
+    }
+  }
+}

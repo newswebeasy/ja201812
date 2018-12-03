@@ -1,0 +1,116 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>を<ruby><rb>操縦</rb><rt>そうじゅう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "パイロット"
+          ]
+        },
+        {
+          "def": "<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>船</rb><rt>ふね</rt></ruby>が<ruby><rb>港</rb><rt>みなと</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>るとき、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>水先案内</rb><rt>みずさきあんない</rt></ruby>。",
+          "hyouki": [
+            "パイロット"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>をおかして、<ruby><rb>刑</rb><rt>けい</rt></ruby>の<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れておく<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "刑務所"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ものごとを<ruby><rb>比</rb><rt>くら</rt></ruby>べるとき、そのもととなるよりどころ。<ruby><rb>標準</rb><rt>ひょうじゅん</rt></ruby>。",
+          "hyouki": [
+            "基準"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>の<ruby><rb>乗務員</rb><rt>じょうむいん</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役</rb><rt>やく</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "機長"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>が、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>にもとづいて、それがよいか<ruby><rb>悪</rb><rt>わる</rt></ruby>いかを<ruby><rb>決</rb><rt>き</rt></ruby>めること。",
+          "hyouki": [
+            "裁判"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "まちがえてしまうこと。あやまり。",
+          "hyouki": [
+            "間違い"
+          ]
+        },
+        {
+          "def": "よくないできごと。<ruby><rb>事故</rb><rt>じこ</rt></ruby>。",
+          "hyouki": [
+            "間違い"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。",
+          "hyouki": [
+            "辞める"
+          ]
+        }
+      ]
+    }
+  }
+}

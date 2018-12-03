@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。",
+          "hyouki": [
+            "平均"
+          ]
+        },
+        {
+          "def": "つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。",
+          "hyouki": [
+            "平均"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。",
+          "hyouki": [
+            "気温"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>第２次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。",
+          "hyouki": [
+            "国際連合"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>手</rb><rt>て</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>仕組</rb><rt>しく</rt></ruby>みが、<ruby><rb>動力</rb><rt>どうりょく</rt></ruby>で<ruby><rb>機械</rb><rt>きかい</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かし、たくさん<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>仕組</rb><rt>しく</rt></ruby>みに<ruby><rb>変</rb><rt>か</rt></ruby>わったこと。<ruby><rb>１８世紀</rb><rt>じゅうはっせいき</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりごろから、イギリスを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まり、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>まった。",
+          "hyouki": [
+            "産業革命"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "１００<ruby><rb>年</rb><rt>ねん</rt></ruby>を<ruby><rb>単位</rb><rt>たんい</rt></ruby>として<ruby><rb>数</rb><rt>かぞ</rt></ruby>える<ruby><rb>年代</rb><rt>ねんだい</rt></ruby>の<ruby><rb>数</rb><rt>かぞ</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>西暦</rb><rt>せいれき</rt></ruby>１<ruby><rb>年</rb><rt>ねん</rt></ruby>から１００<ruby><rb>年</rb><rt>ねん</rt></ruby>までを<ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>と<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶ。<ruby><rb>２１世紀</rb><rt>にじゅういっせいき</rt></ruby>は２００１<ruby><rb>年</rb><rt>ねん</rt></ruby>から２１００<ruby><rb>年</rb><rt>ねん</rt></ruby>まで。",
+          "hyouki": [
+            "世紀"
+          ]
+        },
+        {
+          "def": "<ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>に<ruby><rb>１度</rb><rt>いちど</rt></ruby>しかないようなもの。",
+          "hyouki": [
+            "世紀"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>一生懸命</rb><rt>いっしょうけんめい</rt></ruby>にすること。",
+          "hyouki": [
+            "努力"
+          ]
+        }
+      ]
+    }
+  }
+}

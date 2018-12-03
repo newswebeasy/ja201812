@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。",
+          "hyouki": [
+            "デザイン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。",
+          "hyouki": [
+            "デザイン"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>二</rb><rt>ふた</rt></ruby>つあるうちの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>方</rb><rt>ほう</rt></ruby>。<ruby><rb>片一方</rb><rt>かたいっぽう</rt></ruby>。",
+          "hyouki": [
+            "片方"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>空間</rb><rt>くうかん</rt></ruby>やすき<ruby><rb>間</rb><rt>ま</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>る。",
+          "hyouki": [
+            "空ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>使</rb><rt>つか</rt></ruby>わなくする。ひまにする。",
+          "hyouki": [
+            "空ける"
+          ]
+        },
+        {
+          "def": "からにする。",
+          "hyouki": [
+            "空ける"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>くなる。",
+          "hyouki": [
+            "広まる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>れわたる。",
+          "hyouki": [
+            "広まる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。",
+          "hyouki": [
+            "広まる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "たおれる。ひっくり<ruby><rb>返</rb><rt>かえ</rt></ruby>る。",
+          "hyouki": [
+            "転ぶ"
+          ]
+        }
+      ]
+    }
+  }
+}
