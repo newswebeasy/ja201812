@@ -1,0 +1,38 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>大昔</rb><rt>おおむかし</rt></ruby>の<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>が<ruby><rb>地下</rb><rt>ちか</rt></ruby>にうずもれて、<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>固</rb><rt>かた</rt></ruby>まって、<ruby><rb>黒</rb><rt>くろ</rt></ruby>い<ruby><rb>石</rb><rt>いし</rt></ruby>のようになったもの。<ruby><rb>燃料</rb><rt>ねんりょう</rt></ruby>や<ruby><rb>化学工業</rb><rt>かがくこうぎょう</rt></ruby>の<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "石炭"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>何台</rb><rt>なんだい</rt></ruby>もつながっている、<ruby><rb>客車</rb><rt>きゃくしゃ</rt></ruby>や<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>。",
+          "hyouki": [
+            "列車"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "いかを<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>開</rb><rt>ひら</rt></ruby>き、<ruby><rb>内臓</rb><rt>ないぞう</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>って<ruby><rb>干</rb><rt>ほ</rt></ruby>した<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "するめ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "その<ruby><rb>場</rb><rt>ば</rt></ruby>の<ruby><rb>感</rb><rt>かん</rt></ruby>じや<ruby><rb>気分</rb><rt>きぶん</rt></ruby>。",
+          "hyouki": [
+            "雰囲気"
+          ]
+        }
+      ]
+    }
+  }
+}

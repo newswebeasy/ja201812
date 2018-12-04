@@ -1,0 +1,120 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>祭</rb><rt>まつ</rt></ruby>りのとき、いろいろなかざり<ruby><rb>物</rb><rt>もの</rt></ruby>をつけて<ruby><rb>引</rb><rt>ひ</rt></ruby>いて<ruby><rb>歩</rb><rt>ある</rt></ruby>く<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>車</rb><rt>くるま</rt></ruby>。",
+          "hyouki": [
+            "山車"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>飾</rb><rt>かざ</rt></ruby>ること。また、<ruby><rb>飾</rb><rt>かざ</rt></ruby>って<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>見</rb><rt>み</rt></ruby>せるもの。",
+          "hyouki": [
+            "飾り"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>国連</rb><rt>こくれん</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つで、<ruby><rb>教育</rb><rt>きょういく</rt></ruby>や<ruby><rb>科学</rb><rt>かがく</rt></ruby>、また<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>を<ruby><rb>通</rb><rt>つう</rt></ruby>じて、たがいに<ruby><rb>理解</rb><rt>りかい</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ることを<ruby><rb>目的</rb><rt>もくてき</rt></ruby>としている。",
+          "hyouki": [
+            "UNESCO"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "はっきりした<ruby><rb>形</rb><rt>かたち</rt></ruby>がないこと。",
+          "hyouki": [
+            "無形"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>残</rb><rt>のこ</rt></ruby>したすぐれた<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>。",
+          "hyouki": [
+            "文化遺産"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ろうそくをともして、<ruby><rb>明</rb><rt>あ</rt></ruby>かりに<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>持</rb><rt>も</rt></ruby>つものと、つりさげておくものとがある。",
+          "hyouki": [
+            "ちょうちん"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。１トンは、１０００キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。",
+          "hyouki": [
+            "トン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "トン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "トン"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>放</rb><rt>はな</rt></ruby>つ。うつ。",
+          "hyouki": [
+            "発"
+          ]
+        },
+        {
+          "def": "<ruby><rb>出</rb><rt>だ</rt></ruby>す。<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "発"
+          ]
+        },
+        {
+          "def": "<ruby><rb>明</rb><rt>あき</rt></ruby>らかになる。",
+          "hyouki": [
+            "発"
+          ]
+        },
+        {
+          "def": "<ruby><rb>開</rb><rt>ひら</rt></ruby>ける。さかんになる。",
+          "hyouki": [
+            "発"
+          ]
+        },
+        {
+          "def": "<ruby><rb>出</rb><rt>で</rt></ruby>かける。たつ。",
+          "hyouki": [
+            "発"
+          ]
+        },
+        {
+          "def": "<ruby><rb>弾丸</rb><rt>だんがん</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "発"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "いろいろな<ruby><rb>火薬</rb><rt>かやく</rt></ruby>を<ruby><rb>混</rb><rt>ま</rt></ruby>ぜて<ruby><rb>作</rb><rt>つく</rt></ruby>ったものに<ruby><rb>火</rb><rt>ひ</rt></ruby>をつけ、はじけて<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>光</rb><rt>ひかり</rt></ruby>の<ruby><rb>色</rb><rt>いろ</rt></ruby>や<ruby><rb>形</rb><rt>かたち</rt></ruby>の<ruby><rb>美</rb><rt>うつく</rt></ruby>しさなどを<ruby><rb>楽</rb><rt>たの</rt></ruby>しむもの。",
+          "hyouki": [
+            "花火"
+          ]
+        }
+      ]
+    }
+  }
+}

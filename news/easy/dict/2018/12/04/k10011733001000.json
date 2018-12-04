@@ -1,0 +1,54 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>来</rb><rt>き</rt></ruby>た<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>旅券</rb><rt>りょけん</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べ、その<ruby><rb>国</rb><rt>くに</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ることを<ruby><rb>認</rb><rt>みと</rt></ruby>める<ruby><rb>許可証</rb><rt>きょかしょう</rt></ruby>。<ruby><rb>査証</rb><rt>さしょう</rt></ruby>。",
+          "hyouki": [
+            "ビザ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ある<ruby><rb>時</rb><rt>とき</rt></ruby>からある<ruby><rb>時</rb><rt>とき</rt></ruby>までと<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "期間"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>がつかまえること。",
+          "hyouki": [
+            "逮捕"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。",
+          "hyouki": [
+            "違反"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "工事"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ]
+    }
+  }
+}
