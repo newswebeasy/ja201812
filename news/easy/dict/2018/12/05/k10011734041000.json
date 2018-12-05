@@ -1,0 +1,22 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>の<ruby><rb>中心部</rb><rt>ちゅうしんぶ</rt></ruby>の<ruby><rb>古</rb><rt>ふる</rt></ruby>い<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>名</rb><rt>な</rt></ruby>。１６０３<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>徳川家康</rb><rt>とくがわいえやす</rt></ruby>が<ruby><rb>幕府</rb><rt>ばくふ</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いてから、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>の<ruby><rb>中心地</rb><rt>ちゅうしんち</rt></ruby>として<ruby><rb>栄</rb><rt>さか</rt></ruby>え、<ruby><rb>明治</rb><rt>めいじ</rt></ruby>になって「<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>」と<ruby><rb>改</rb><rt>あらた</rt></ruby>められた。",
+          "hyouki": [
+            "江戸"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。",
+          "hyouki": [
+            "障害"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。",
+          "hyouki": [
+            "障害"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>考</rb><rt>かんが</rt></ruby>えたり<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かしたりするはたらきを<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>つところ。",
+          "hyouki": [
+            "脳"
+          ]
+        },
+        {
+          "def": "<ruby><rb>頭</rb><rt>あたま</rt></ruby>のはたらき。",
+          "hyouki": [
+            "脳"
+          ]
+        },
+        {
+          "def": "<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となる<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "脳"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>目立</rb><rt>めだ</rt></ruby>つところ。",
+          "hyouki": [
+            "特徴"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "うまく<ruby><rb>調節</rb><rt>ちょうせつ</rt></ruby>すること。また、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>思</rb><rt>おも</rt></ruby>うように<ruby><rb>動</rb><rt>うご</rt></ruby>かすこと。",
+          "hyouki": [
+            "コントロール"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>投手</rb><rt>とうしゅ</rt></ruby>が<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>思</rb><rt>おも</rt></ruby>うところに、<ruby><rb>球</rb><rt>たま</rt></ruby>を<ruby><rb>投</rb><rt>な</rt></ruby>げる<ruby><rb>力</rb><rt>ちから</rt></ruby>。",
+          "hyouki": [
+            "コントロール"
+          ]
+        }
+      ]
+    }
+  }
+}
