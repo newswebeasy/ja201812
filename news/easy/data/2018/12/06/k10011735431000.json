@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011735431000",
+  "news_prearranged_time": "2018-12-06 16:55:00",
+  "title": "島根県　ペンギンがサンタクロースの服を着て散歩する",
+  "title_with_ruby": "<ruby>島根県<rt>しまねけん</rt></ruby>　ペンギンがサンタクロースの<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>て<ruby>散歩<rt>さんぽ</rt></ruby>する",
+  "outline_with_ruby": "<p><ruby>島根県<rt>しまねけん</rt></ruby><ruby>松江市<rt>まつえし</rt></ruby>にある<a href='javascript:void(0)' class='dicWin' id='id-0002'>テーマパーク</a>の「<ruby>松江<rt>まつえ</rt></ruby>フォーゲルパーク」では、<ruby>毎日<rt>まいにち</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0000'>ペンギン</a>の<ruby>散歩<rt>さんぽ</rt></ruby>を<ruby>見<rt>み</rt></ruby>ることができます。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181205/../20181205/K10011735431_1812051404_1812051427_01_02.jpg",
+  "news_web_movie_uri": "k10011735431_201812051430_201812051431.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011735431000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011735431000/k10011735431000.html"
+}

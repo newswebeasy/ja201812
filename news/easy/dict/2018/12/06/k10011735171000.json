@@ -1,0 +1,94 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>聖人</rb><rt>せいじん</rt></ruby>を<ruby><rb>記念</rb><rt>きねん</rt></ruby>するキリスト<ruby><rb>教</rb><rt>きょう</rt></ruby>の<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>（１１<ruby><rb>月</rb><rt>がつ</rt></ruby><ruby><rb>１日</rb><rt>ついたち</rt></ruby>）の<ruby><rb>前夜祭</rb><rt>ぜんやさい</rt></ruby>。アメリカなどではカボチャをくりぬいてかざったり、<ruby><rb>子</rb><rt>こ</rt></ruby>どもたちが<ruby><rb>仮装</rb><rt>かそう</rt></ruby>して<ruby><rb>家々</rb><rt>いえいえ</rt></ruby>を<ruby><rb>回</rb><rt>まわ</rt></ruby>ったりする。",
+          "hyouki": [
+            "ハロウィーン"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rt></ruby>。",
+        "hyouki": [
+        "トラック"
+    ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "あやしいと<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>変</rb><rt>へん</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。",
+          "hyouki": [
+            "疑い"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>がつかまえること。",
+          "hyouki": [
+            "逮捕"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>化</rb><rt>ば</rt></ruby>け<ruby><rb>物</rb><rt>もの</rt></ruby>。ゆうれい。",
+          "hyouki": [
+            "お化け"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>立</rb><rt>た</rt></ruby>っているものを<ruby><rb>横</rb><rt>よこ</rt></ruby>にする。<ruby><rb>転</rb><rt>ころ</rt></ruby>ばす。",
+          "hyouki": [
+            "倒す"
+          ]
+        },
+        {
+          "def": "くつがえす。ほろぼす。",
+          "hyouki": [
+            "倒す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>負</rb><rt>ま</rt></ruby>かす。",
+          "hyouki": [
+            "倒す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばう。",
+          "hyouki": [
+            "倒す"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>によって<ruby><rb>映</rb><rt>うつ</rt></ruby>し<ruby><rb>出</rb><rt>だ</rt></ruby>された、<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>姿</rb><rt>すがた</rt></ruby>。",
+          "hyouki": [
+            "映像"
+          ]
+        },
+        {
+          "def": "<ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にうかんだ<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やようす。イメージ。",
+          "hyouki": [
+            "映像"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "とらえられる。つかまえられる。",
+          "hyouki": [
+            "捕まる"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>南極地方</rb><rt>なんきょくちほう</rt></ruby>などにすむ<ruby><rb>海鳥</rb><rt>うみどり</rt></ruby>。<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>短</rb><rt>みじか</rt></ruby>い<ruby><rb>足</rb><rt>あし</rt></ruby>で<ruby><rb>立</rb><rt>た</rt></ruby>って<ruby><rb>歩</rb><rt>ある</rt></ruby>く。<ruby><rb>飛</rb><rt>と</rt></ruby>べないが、ひれのようなつばさがあり、<ruby><rb>水中</rb><rt>すいちゅう</rt></ruby>を<ruby><rb>泳</rb><rt>およ</rt></ruby>ぐ。",
+          "hyouki": [
+            "ペンギン"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "クリスマスの<ruby><rb>前夜</rb><rt>ぜんや</rt></ruby>、<ruby><rb>白</rb><rt>しろ</rt></ruby>いひげを<ruby><rb>生</rb><rt>は</rt></ruby>やし、<ruby><rb>赤</rb><rt>あか</rt></ruby>い<ruby><rb>服</rb><rt>ふく</rt></ruby>を<ruby><rb>着</rb><rt>き</rt></ruby>て、<ruby><rb>子</rb><rt>こ</rt></ruby>どもたちにおくり<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>ってくると<ruby><rb>伝</rb><rt>つた</rt></ruby>えられているおじいさん。",
+          "hyouki": [
+            "サンタクロース"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つのテーマに<ruby><rb>沿</rb><rt>そ</rt></ruby>って<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>遊園地</rb><rt>ゆうえんち</rt></ruby>。ディズニーランドなど。",
+          "hyouki": [
+            "テーマパーク"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "キリストの<ruby><rb>誕生</rb><rt>たんじょう</rt></ruby>を<ruby><rb>祝</rb><rt>いわ</rt></ruby>うお<ruby><rb>祭</rb><rt>まつ</rt></ruby>り。１２<ruby><rb>月</rb><rt>がつ</rt></ruby>２５<ruby><rb>日</rb><rt>にち</rt></ruby>。",
+          "hyouki": [
+            "クリスマス"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ものがくっつく。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "つきそう。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。",
+          "hyouki": [
+            "付く"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>鳥</rb><rt>とり</rt></ruby>やウサギを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "羽"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>行</rb><rt>い</rt></ruby>ったり<ruby><rb>来</rb><rt>き</rt></ruby>たりすること。<ruby><rb>行</rb><rt>い</rt></ruby>きと<ruby><rb>帰</rb><rt>かえ</rt></ruby>り。",
+          "hyouki": [
+            "往復"
+          ]
+        },
+        {
+          "def": "やり<ruby><rb>取</rb><rt>と</rt></ruby>り。",
+          "hyouki": [
+            "往復"
+          ]
+        }
+      ]
+    }
+  }
+}

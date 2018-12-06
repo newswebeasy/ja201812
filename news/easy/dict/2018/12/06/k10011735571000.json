@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地下水</rb><rt>ちかすい</rt></ruby>が<ruby><rb>火山</rb><rt>かざん</rt></ruby>などの<ruby><rb>熱</rb><rt>ねつ</rt></ruby>で<ruby><rb>温</rb><rt>あたた</rt></ruby>められて、<ruby><rb>地下</rb><rt>ちか</rt></ruby>からわき<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>湯</rb><rt>ゆ</rt></ruby>。いろいろな<ruby><rb>成分</rb><rt>せいぶん</rt></ruby>がとけていて<ruby><rb>病気</rb><rt>びょうき</rt></ruby>に<ruby><rb>効</rb><rt>き</rt></ruby>く。また、その<ruby><rb>湯</rb><rt>ゆ</rt></ruby>の<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "温泉"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>って<ruby><rb>得</rb><rt>え</rt></ruby>たお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "売り上げ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>作品</rb><rt>さくひん</rt></ruby>などを、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>呼</rb><rt>よ</rt></ruby>びかけて<ruby><rb>集</rb><rt>あつ</rt></ruby>めること。",
+          "hyouki": [
+            "募集"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>想像</rb><rt>そうぞう</rt></ruby>して、<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にえがき<ruby><rb>出</rb><rt>だ</rt></ruby>す、ものの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>姿</rb><rt>すがた</rt></ruby>。",
+          "hyouki": [
+            "イメージ"
+          ]
+        }
+      ]
+    }
+  }
+}
