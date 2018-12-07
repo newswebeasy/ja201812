@@ -1,0 +1,80 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "職員"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>時間</rb><rt>じかん</rt></ruby>のあと、<ruby><rb>残</rb><rt>のこ</rt></ruby>って<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をすること。",
+          "hyouki": [
+            "残業"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>休</rb><rt>やす</rt></ruby>みの<ruby><rb>日</rb><rt>ひ</rt></ruby>でも<ruby><rb>祝日</rb><rt>しゅくじつ</rt></ruby>でもない<ruby><rb>日</rb><rt>ひ</rt></ruby>。ふつうの<ruby><rb>日</rb><rt>ひ</rt></ruby>。",
+          "hyouki": [
+            "平日"
+          ]
+        },
+        {
+          "def": "いつも。ふだん。",
+          "hyouki": [
+            "平日"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>絶</rb><rt>た</rt></ruby>つこと。<ruby><rb>自害</rb><rt>じがい</rt></ruby>。",
+          "hyouki": [
+            "自殺"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。",
+          "hyouki": [
+            "平均"
+          ]
+        },
+        {
+          "def": "つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。",
+          "hyouki": [
+            "平均"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。",
+          "hyouki": [
+            "話し合う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "話し合う"
+          ]
+        }
+      ]
+    }
+  }
+}

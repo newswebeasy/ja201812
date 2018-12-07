@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011737831000",
+  "news_prearranged_time": "2018-12-07 16:15:00",
+  "title": "ソフトバンクの携帯電話などが４時間半使えなくなった",
+  "title_with_ruby": "ソフトバンクの<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>などが４<ruby>時間<rt>じかん</rt></ruby><ruby>半<rt>はん</rt></ruby><ruby>使<rt>つか</rt></ruby>えなくなった",
+  "outline_with_ruby": "<p>ソフトバンクのスマートフォンなどが<ruby>６日<rt>むいか</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>１<ruby>時<rt>じ</rt></ruby><ruby>半<rt>はん</rt></ruby>ごろから、<ruby>電話<rt>でんわ</rt></ruby>をかけたりインターネットを<ruby>使<rt>つか</rt></ruby>ったりすることができなくなりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181207/../20181207/K10011737831_1812070026_1812070026_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011737831000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011737831000/k10011737831000.html"
+}

@@ -1,0 +1,66 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ものごとを<ruby><rb>進</rb><rt>すす</rt></ruby>めていく<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>ややり<ruby><rb>方</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "手続き"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。",
+          "hyouki": [
+            "サービス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "サービス"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "コンピューターを<ruby><rb>動</rb><rt>うご</rt></ruby>かすためのプログラムや<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>。ソフト。",
+          "hyouki": [
+            "ソフトウエア"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>がしたことで、いやな<ruby><rb>思</rb><rt>おも</rt></ruby>いをしたり<ruby><rb>困</rb><rt>こま</rt></ruby>ったりすること。",
+          "hyouki": [
+            "迷惑"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>訳</rb><rt>わけ</rt></ruby>ができない。<ruby><rb>大変</rb><rt>たいへん</rt></ruby>すまない。",
+          "hyouki": [
+            "申し訳ない"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ]
+    }
+  }
+}
