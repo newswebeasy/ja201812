@@ -1,0 +1,60 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>商売</rb><rt>しょうばい</rt></ruby>として、<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>買</rb><rt>か</rt></ruby>いすること。",
+          "hyouki": [
+            "取り引き"
+          ]
+        },
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のほうが<ruby><rb>得</rb><rt>とく</rt></ruby>になるように、かけひきすること。",
+          "hyouki": [
+            "取り引き"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。",
+          "hyouki": [
+            "違反"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "あやしいと<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>変</rb><rt>へん</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。",
+          "hyouki": [
+            "疑い"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>負</rb><rt>ま</rt></ruby>けまいと、<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>をすること。",
+          "hyouki": [
+            "対抗"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "たがいに<ruby><rb>反対</rb><rt>はんたい</rt></ruby>の<ruby><rb>立場</rb><rt>たちば</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>って、<ruby><rb>張</rb><rt>は</rt></ruby>り<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。",
+          "hyouki": [
+            "対立"
+          ]
+        }
+      ]
+    }
+  }
+}

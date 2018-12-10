@@ -1,0 +1,30 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>冬</rb><rt>ふゆ</rt></ruby>に<ruby><rb>学校</rb><rt>がっこう</rt></ruby>などが<ruby><rb>休</rb><rt>やす</rt></ruby>みになること。<ruby><rb>正月</rb><rt>しょうがつ</rt></ruby>の<ruby><rb>前後</rb><rt>ぜんご</rt></ruby>の<ruby><rb>休</rb><rt>やす</rt></ruby>み。",
+          "hyouki": [
+            "冬休み"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>。<ruby><rb>領土</rb><rt>りょうど</rt></ruby>の<ruby><rb>内側</rb><rt>うちがわ</rt></ruby>。",
+          "hyouki": [
+            "国内"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>給料</rb><rt>きゅうりょう</rt></ruby>のほかに、<ruby><rb>夏</rb><rt>なつ</rt></ruby>と<ruby><rb>年末</rb><rt>ねんまつ</rt></ruby>などに<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>にもらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>賞与</rb><rt>しょうよ</rt></ruby>。",
+          "hyouki": [
+            "ボーナス"
+          ]
+        }
+      ]
+    }
+  }
+}
