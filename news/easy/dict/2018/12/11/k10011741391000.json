@@ -1,0 +1,82 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>炭火</rb><rt>すみび</rt></ruby>や<ruby><rb>電熱器</rb><rt>でんねつき</rt></ruby>をわくで<ruby><rb>囲</rb><rt>かこ</rt></ruby>んで、ふとんなどをかけ、<ruby><rb>足</rb><rt>あし</rt></ruby>などを<ruby><rb>温</rb><rt>あたた</rt></ruby>めるもの。",
+          "hyouki": [
+            "こたつ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "すきとおっていること。",
+          "hyouki": [
+            "透明"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>材木</rb><rt>ざいもく</rt></ruby>を、うすく<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。また、そのような<ruby><rb>形</rb><rt>かたち</rt></ruby>のもの。",
+          "hyouki": [
+            "板"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "おりる。",
+          "hyouki": [
+            "下る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>申</rb><rt>もう</rt></ruby>しわたされる。",
+          "hyouki": [
+            "下る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>地方</rb><rt>ちほう</rt></ruby>へ<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "下る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>南</rb><rt>みなみ</rt></ruby>に<ruby><rb>向</rb><rt>む</rt></ruby>かって<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "下る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>負</rb><rt>ま</rt></ruby>けて<ruby><rb>従</rb><rt>したが</rt></ruby>う。",
+          "hyouki": [
+            "下る"
+          ]
+        },
+        {
+          "def": "おなかをこわす。",
+          "hyouki": [
+            "下る"
+          ]
+        },
+        {
+          "def": "それより<ruby><rb>少</rb><rt>すく</rt></ruby>ない。",
+          "hyouki": [
+            "下る"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>石</rb><rt>いし</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きなもの。<ruby><rb>岩石</rb><rt>がんせき</rt></ruby>。",
+          "hyouki": [
+            "岩"
+          ]
+        }
+      ]
+    }
+  }
+}
