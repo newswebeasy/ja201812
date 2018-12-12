@@ -1,0 +1,31 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。",
+          "hyouki": [
+            "コンビニ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>衣</rb><rt>ころも</rt></ruby>をつけずに、または<ruby><rb>小麦粉</rb><rt>こむぎこ</rt></ruby>やかたくり<ruby><rb>粉</rb><rt>こ</rt></ruby>を<ruby><rb>軽</rb><rt>かる</rt></ruby>くまぶして、<ruby><rb>油</rb><rt>あぶら</rt></ruby>で<ruby><rb>揚</rb><rt>あ</rt></ruby>げること。また、その<ruby><rb>料理</rb><rt>りょうり</rt></ruby>。",
+          "hyouki": [
+            "空揚げ","・",
+            "唐揚げ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れる<ruby><rb>器</rb><rt>うつわ</rt></ruby>。",
+          "hyouki": [
+            "入れ物"
+          ]
+        }
+      ]
+    }
+  }
+}

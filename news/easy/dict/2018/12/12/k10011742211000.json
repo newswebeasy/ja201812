@@ -1,0 +1,106 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>演芸</rb><rt>えんげい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>独</rb><rt>ひと</rt></ruby>りで<ruby><rb>語</rb><rt>かた</rt></ruby>って、<ruby><rb>終</rb><rt>お</rt></ruby>わりに<ruby><rb>落</rb><rt>お</rt></ruby>ちをつける、こっけいな<ruby><rb>話</rb><rt>はなし</rt></ruby>。<ruby><rb>落</rb><rt>お</rt></ruby>としばなし。",
+          "hyouki": [
+            "落語"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>悪性</rb><rt>あくせい</rt></ruby>のはれものができる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にできたがん<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>がどんどん<ruby><rb>増</rb><rt>ふ</rt></ruby>えて<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>害</rb><rt>がい</rt></ruby>をあたえる。",
+          "hyouki": [
+            "がん"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがの<ruby><rb>手当</rb><rt>てあ</rt></ruby>てをして<ruby><rb>治</rb><rt>なお</rt></ruby>すこと。",
+          "hyouki": [
+            "治療"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>二人</rb><rt>ふたり</rt></ruby>でこっけいな<ruby><rb>話</rb><rt>はなし</rt></ruby>のやりとりをする<ruby><rb>演芸</rb><rt>えんげい</rt></ruby>。",
+          "hyouki": [
+            "漫才"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>病気</rb><rt>びょうき</rt></ruby>にかかりにくくしている<ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらき。<ruby><rb>前</rb><rt>まえ</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>その<ruby><rb>病気</rb><rt>びょうき</rt></ruby>にかかったり、<ruby><rb>予防接種</rb><rt>よぼうせっしゅ</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けたりするとできる。",
+          "hyouki": [
+            "免疫"
+          ]
+        },
+        {
+          "def": "それに<ruby><rb>慣</rb><rt>な</rt></ruby>れてしまって、<ruby><rb>気</rb><rt>き</rt></ruby>にしなくなること。",
+          "hyouki": [
+            "免疫"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>動植物</rb><rt>どうしょくぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている<ruby><rb>栄養</rb><rt>えいよう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>肉</rb><rt>にく</rt></ruby>・ミルク・<ruby><rb>豆</rb><rt>まめ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>の<ruby><rb>白身</rb><rt>しろみ</rt></ruby>などに<ruby><rb>多</rb><rt>おお</rt></ruby>くふくまれている。",
+          "hyouki": [
+            "たんぱく質"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かい。",
+          "hyouki": [
+            "詳しい"
+          ]
+        },
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かいことまでよく<ruby><rb>知</rb><rt>し</rt></ruby>っている。",
+          "hyouki": [
+            "詳しい"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す<ruby><rb>文字</rb><rt>もじ</rt></ruby>。アラビア<ruby><rb>数字</rb><rt>すうじ</rt></ruby>（<ruby><rb>算用数字</rb><rt>さんようすうじ</rt></ruby>）、<ruby><rb>漢数字</rb><rt>かんすうじ</rt></ruby>、ローマ<ruby><rb>数字</rb><rt>すうじ</rt></ruby>などがある。",
+          "hyouki": [
+            "数字"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>気持</rb><rt>きも</rt></ruby>ちや<ruby><rb>考</rb><rt>かんが</rt></ruby>えなどを、ことばや<ruby><rb>表情</rb><rt>ひょうじょう</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>したり、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>などにしたりする。",
+          "hyouki": [
+            "表す"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ]
+    }
+  }
+}

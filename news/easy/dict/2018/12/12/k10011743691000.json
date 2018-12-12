@@ -1,0 +1,82 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>来</rb><rt>き</rt></ruby>た<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>旅券</rb><rt>りょけん</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べ、その<ruby><rb>国</rb><rt>くに</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ることを<ruby><rb>認</rb><rt>みと</rt></ruby>める<ruby><rb>許可証</rb><rt>きょかしょう</rt></ruby>。<ruby><rb>査証</rb><rt>さしょう</rt></ruby>。",
+          "hyouki": [
+            "ビザ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>市</rb><rt>し</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>市庁</rb><rt>しちょう</rt></ruby>。",
+          "hyouki": [
+            "市役所"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。",
+          "hyouki": [
+            "システム"
+          ]
+        },
+        {
+          "def": "ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。",
+          "hyouki": [
+            "システム"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。",
+          "hyouki": [
+            "給料"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>銀行</rb><rt>ぎんこう</rt></ruby>などでお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れのために<ruby><rb>設</rb><rt>もう</rt></ruby>けられた、もとになる<ruby><rb>帳簿</rb><rt>ちょうぼ</rt></ruby>。",
+          "hyouki": [
+            "口座"
+          ]
+        }
+      ]
+    }
+  }
+}

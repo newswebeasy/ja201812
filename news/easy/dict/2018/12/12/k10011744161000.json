@@ -1,0 +1,80 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>のおもな<ruby><rb>都市</rb><rt>とし</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで、<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶための<ruby><rb>高速鉄道</rb><rt>こうそくてつどう</rt></ruby>。<ruby><rb>東海道新幹線</rb><rt>とうかいどうしんかんせん</rt></ruby>、<ruby><rb>山陽新幹線</rb><rt>さんようしんかんせん</rt></ruby>、<ruby><rb>上越新幹線</rb><rt>じょうえつしんかんせん</rt></ruby>、<ruby><rb>長野新幹線</rb><rt>ながのしんかんせん</rt></ruby>、<ruby><rb>東北新幹線</rb><rt>とうほくしんかんせん</rt></ruby>、<ruby><rb>山形新幹線</rb><rt>やまがたしんかんせん</rt></ruby>、<ruby><rb>秋田新幹線</rb><rt>あきたしんかんせん</rt></ruby>、<ruby><rb>九州新幹線</rb><rt>きゅうしゅうしんかんせん</rt></ruby>がある。",
+          "hyouki": [
+            "新幹線"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>時間</rb><rt>じかん</rt></ruby>をおそくする。おくらせる。",
+          "hyouki": [
+            "延ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>先</rb><rt>さき</rt></ruby>まで<ruby><rb>続</rb><rt>つづ</rt></ruby>くようにする。",
+          "hyouki": [
+            "延ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>でうすめる。",
+          "hyouki": [
+            "延ばす"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "記者"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>を、いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>けたものの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "部分"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>や<ruby><rb>地下</rb><rt>ちか</rt></ruby>や<ruby><rb>海底</rb><rt>かいてい</rt></ruby>に<ruby><rb>穴</rb><rt>あな</rt></ruby>をあけて、<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>車</rb><rt>くるま</rt></ruby>などが<ruby><rb>通</rb><rt>とお</rt></ruby>れるようにしたもの。",
+          "hyouki": [
+            "トンネル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>野手</rb><rt>やしゅ</rt></ruby>がゴロを<ruby><rb>取</rb><rt>と</rt></ruby>りそこなって、またの<ruby><rb>間</rb><rt>あいだ</rt></ruby>から<ruby><rb>後</rb><rt>うし</rt></ruby>ろにのがすこと。",
+          "hyouki": [
+            "トンネル"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>速</rb><rt>はや</rt></ruby>さ。<ruby><rb>速力</rb><rt>そくりょく</rt></ruby>。",
+          "hyouki": [
+            "スピード"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>一時間</rb><rt>いちじかん</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>速</rb><rt>はや</rt></ruby>さ。",
+          "hyouki": [
+            "時速"
+          ]
+        }
+      ]
+    }
+  }
+}
