@@ -46,11 +46,18 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "http://www.nhk.or.jp/gendai/articles/4216/index.html",
+      "title": "復旧できない… 災害多発時代 あの被災地は今",
+      "time": "クローズアップ現代＋ 11月27日",
+      "datetime": "2018-11-27"
+    }
+  ],
   "word": [],
   "news_id": "k10011744331000",
   "yyyy": "2018",
   "mm": "12",
   "dd": "12",
-  "url": "https://www3.nhk.or.jp/news/html/20181212/k10011744331000.html?utm_int=news-new_contents_list-items_002"
+  "url": "https://www3.nhk.or.jp/news/html/20181212/k10011744331000.html"
 }
