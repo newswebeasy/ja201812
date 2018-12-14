@@ -1,0 +1,30 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>暖</rb><rt>あたた</rt></ruby>かい<ruby><rb>海</rb><rt>うみ</rt></ruby>を、<ruby><rb>群</rb><rt>む</rt></ruby>れを<ruby><rb>作</rb><rt>つく</rt></ruby>って<ruby><rb>泳</rb><rt>およ</rt></ruby>ぐ<ruby><rb>回遊魚</rb><rt>かいゆうぎょ</rt></ruby>。さしみで<ruby><rb>食</rb><rt>た</rt></ruby>べたり、かつおぶしなどにする。",
+          "hyouki": [
+            "鰹"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>貝</rb><rt>かい</rt></ruby>・<ruby><rb>海藻</rb><rt>かいそう</rt></ruby>などの<ruby><rb>水産物</rb><rt>すいさんぶつ</rt></ruby>を、とったり<ruby><rb>育</rb><rt>そだ</rt></ruby>てたりする<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "漁業"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>に<ruby><rb>乗</rb><rt>の</rt></ruby>って、<ruby><rb>働</rb><rt>はたら</rt></ruby>いている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>船乗</rb><rt>ふなの</rt></ruby>り。",
+          "hyouki": [
+            "船員"
+          ]
+        }
+      ]
+    }
+  }
+}

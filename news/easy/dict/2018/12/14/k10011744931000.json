@@ -1,0 +1,124 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>などのいちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>頂上</rb><rt>ちょうじょう</rt></ruby>。",
+          "hyouki": [
+            "頂"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。",
+          "hyouki": [
+            "太陽"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>入</rb><rt>はい</rt></ruby>る。",
+          "hyouki": [
+            "沈む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>がない。",
+          "hyouki": [
+            "沈む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>や<ruby><rb>月</rb><rt>つき</rt></ruby>が<ruby><rb>地平線</rb><rt>ちへいせん</rt></ruby>にかくれる。",
+          "hyouki": [
+            "沈む"
+          ]
+        },
+        {
+          "def": "よくない<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。",
+          "hyouki": [
+            "沈む"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>入</rb><rt>はい</rt></ruby>る。",
+          "hyouki": [
+            "沈む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>がない。",
+          "hyouki": [
+            "沈む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>や<ruby><rb>月</rb><rt>つき</rt></ruby>が<ruby><rb>地平線</rb><rt>ちへいせん</rt></ruby>にかくれる。",
+          "hyouki": [
+            "沈む"
+          ]
+        },
+        {
+          "def": "よくない<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。",
+          "hyouki": [
+            "沈む"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "そこだけが、<ruby><rb>周</rb><rt>まわ</rt></ruby>りより<ruby><rb>低</rb><rt>ひく</rt></ruby>く<ruby><rb>落</rb><rt>お</rt></ruby>ちこむ。",
+          "hyouki": [
+            "へこむ"
+          ]
+        },
+        {
+          "def": "やりこめられる。<ruby><rb>負</rb><rt>ま</rt></ruby>ける。",
+          "hyouki": [
+            "へこむ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>宝石</rb><rt>ほうせき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、もっともかたくてよく<ruby><rb>光</rb><rt>ひか</rt></ruby>る、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>いもの。ダイヤ。ダイアモンド。<ruby><rb>金剛石</rb><rt>こんごうせき</rt></ruby>。",
+          "hyouki": [
+            "ダイヤモンド"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで<ruby><rb>内野</rb><rt>ないや</rt></ruby>のこと。",
+          "hyouki": [
+            "ダイヤモンド"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>箱</rb><rt>はこ</rt></ruby>。<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "ケース"
+          ]
+        },
+        {
+          "def": "<ruby><rb>場合</rb><rt>ばあい</rt></ruby>。できごと。",
+          "hyouki": [
+            "ケース"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>月</rb><rt>つき</rt></ruby>の<ruby><rb>１１</rb><rt>じゅういち</rt></ruby><ruby><rb>日</rb><rt>にち</rt></ruby>から<ruby><rb>２０日</rb><rt>はつか</rt></ruby>までの<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "中旬"
+          ]
+        }
+      ]
+    }
+  }
+}

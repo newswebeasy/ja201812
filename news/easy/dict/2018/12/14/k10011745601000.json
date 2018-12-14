@@ -1,0 +1,142 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>速度</rb><rt>そくど</rt></ruby>が<ruby><rb>速</rb><rt>はや</rt></ruby>いこと。",
+          "hyouki": [
+            "高速"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>鉄</rb><rt>てつ</rt></ruby>のレールをしいて、<ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>を<ruby><rb>走</rb><rt>はし</rt></ruby>らせる<ruby><rb>交通機関</rb><rt>こうつうきかん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、１８７２<ruby><rb>年</rb><rt>ねん</rt></ruby>（<ruby><rb>明治</rb><rt>めいじ</rt></ruby>５<ruby><rb>年</rb><rt>ねん</rt></ruby>）に<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>の<ruby><rb>新橋</rb><rt>しんばし</rt></ruby>と<ruby><rb>横浜</rb><rt>よこはま</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>初</rb><rt>はじ</rt></ruby>めて<ruby><rb>開通</rb><rt>かいつう</rt></ruby>した。",
+          "hyouki": [
+            "鉄道"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>何台</rb><rt>なんだい</rt></ruby>もつながっている、<ruby><rb>客車</rb><rt>きゃくしゃ</rt></ruby>や<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>。",
+          "hyouki": [
+            "列車"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>蒸気</rb><rt>じょうき</rt></ruby>や<ruby><rb>電気</rb><rt>でんき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>機関</rb><rt>きかん</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かして、<ruby><rb>客車</rb><rt>きゃくしゃ</rt></ruby>や<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いて<ruby><rb>線路</rb><rt>せんろ</rt></ruby>を<ruby><rb>走</rb><rt>はし</rt></ruby>る<ruby><rb>車</rb><rt>くるま</rt></ruby>。<ruby><rb>蒸気機関車</rb><rt>じょうききかんしゃ</rt></ruby>・<ruby><rb>電気機関車</rb><rt>でんききかんしゃ</rt></ruby>など。",
+          "hyouki": [
+            "機関車"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>汽車</rb><rt>きしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道筋</rb><rt>みちすじ</rt></ruby>。レール。",
+          "hyouki": [
+            "線路"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>などが、<ruby><rb>線路</rb><rt>せんろ</rt></ruby>から<ruby><rb>外</rb><rt>はず</rt></ruby>れること。",
+          "hyouki": [
+            "脱線"
+          ]
+        },
+        {
+          "def": "<ruby><rb>話</rb><rt>はなし</rt></ruby>や<ruby><rb>行動</rb><rt>こうどう</rt></ruby>が<ruby><rb>横道</rb><rt>よこみち</rt></ruby>へそれること。",
+          "hyouki": [
+            "脱線"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "（<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>字</rb><rt>じ</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>が）すけて<ruby><rb>見</rb><rt>み</rt></ruby>える。",
+          "hyouki": [
+            "写る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>にとられる。",
+          "hyouki": [
+            "写る"
+          ]
+        }
+      ]
+    }
+  }
+}
