@@ -1,0 +1,98 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。",
+          "hyouki": [
+            "宇宙"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ロケットで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げ、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>るようにした、<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>。<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>のようすや<ruby><rb>気象</rb><rt>きしょう</rt></ruby>などを<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>などの<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>の<ruby><rb>中継</rb><rt>ちゅうけい</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>てたりする。",
+          "hyouki": [
+            "人工衛星"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "（<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。",
+          "hyouki": [
+            "打ち上げる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。",
+          "hyouki": [
+            "打ち上げる"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。",
+          "hyouki": [
+            "打ち上げる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>四番</rb><rt>よばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>星</rb><rt>ほし</rt></ruby>の<ruby><rb>色</rb><rt>いろ</rt></ruby>は<ruby><rb>赤</rb><rt>あか</rt></ruby>く<ruby><rb>見</rb><rt>み</rt></ruby>え、<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>が<ruby><rb>二</rb><rt>ふた</rt></ruby>つある。",
+          "hyouki": [
+            "火星"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>五番目</rb><rt>ごばんめ</rt></ruby>にあり、<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>でいちばん<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>。",
+          "hyouki": [
+            "木星"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。",
+          "hyouki": [
+            "太陽"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>３番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。",
+          "hyouki": [
+            "地球"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ]
+    }
+  }
+}

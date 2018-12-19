@@ -1,0 +1,84 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "クリスマスの<ruby><rb>前夜</rb><rt>ぜんや</rt></ruby>、<ruby><rb>白</rb><rt>しろ</rt></ruby>いひげを<ruby><rb>生</rb><rt>は</rt></ruby>やし、<ruby><rb>赤</rb><rt>あか</rt></ruby>い<ruby><rb>服</rb><rt>ふく</rt></ruby>を<ruby><rb>着</rb><rt>き</rt></ruby>て、<ruby><rb>子</rb><rt>こ</rt></ruby>どもたちにおくり<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>ってくると<ruby><rb>伝</rb><rt>つた</rt></ruby>えられているおじいさん。",
+          "hyouki": [
+            "サンタクロース"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "キリストの<ruby><rb>誕生</rb><rt>たんじょう</rt></ruby>を<ruby><rb>祝</rb><rt>いわ</rt></ruby>うお<ruby><rb>祭</rb><rt>まつ</rt></ruby>り。１２<ruby><rb>月</rb><rt>がつ</rt></ruby>２５<ruby><rb>日</rb><rt>にち</rt></ruby>。",
+          "hyouki": [
+            "クリスマス"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>・<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>草</rb><rt>くさ</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>・<ruby><rb>雲</rb><rt>くも</rt></ruby>・<ruby><rb>雨</rb><rt>あめ</rt></ruby>・<ruby><rb>雪</rb><rt>ゆき</rt></ruby>など、<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>作</rb><rt>つく</rt></ruby>ったものでない<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "もともとの<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>備</rb><rt>そな</rt></ruby>えていること。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "わざとらしくないようす。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "ひとりでに。いつのまにか。",
+          "hyouki": [
+            "自然"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かい<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>重</rb><rt>かさ</rt></ruby>なってたまる。",
+          "hyouki": [
+            "積もる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じようなことが<ruby><rb>何度</rb><rt>なんど</rt></ruby>も<ruby><rb>重</rb><rt>かさ</rt></ruby>なって、だんだん<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。",
+          "hyouki": [
+            "積もる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>色</rb><rt>いろ</rt></ruby>とりどりのたくさんの<ruby><rb>電球</rb><rt>でんきゅう</rt></ruby>で、<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>船</rb><rt>ふね</rt></ruby>などを<ruby><rb>明</rb><rt>あか</rt></ruby>るくかざること。",
+          "hyouki": [
+            "イルミネーション"
+          ]
+        }
+      ]
+    }
+  }
+}

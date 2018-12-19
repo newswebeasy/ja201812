@@ -1,0 +1,82 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ちがい。へだたり。",
+          "hyouki": [
+            "差"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>数</rb><rt>かず</rt></ruby>からほかの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>残</rb><rt>のこ</rt></ruby>りの<ruby><rb>数</rb><rt>かず</rt></ruby>。",
+          "hyouki": [
+            "差"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。",
+          "hyouki": [
+            "健康"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。",
+          "hyouki": [
+            "健康"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>北</rb><rt>きた</rt></ruby>ヨーロッパ。スウェーデン・ノルウェー・フィンランドなど。",
+          "hyouki": [
+            "北欧"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>経済</rb><rt>けいざい</rt></ruby>・<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>などが<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>んでいる<ruby><rb>国</rb><rt>くに</rt></ruby>。",
+          "hyouki": [
+            "先進国"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。",
+          "hyouki": [
+            "給料"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>から<ruby><rb>選</rb><rt>えら</rt></ruby>ばれて、<ruby><rb>国会</rb><rt>こっかい</rt></ruby>で<ruby><rb>国民</rb><rt>こくみん</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>して<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>述</rb><rt>の</rt></ruby>べ、<ruby><rb>決議</rb><rt>けつぎ</rt></ruby>に<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>衆議院議員</rb><rt>しゅうぎいんぎいん</rt></ruby>と<ruby><rb>参議院議員</rb><rt>さんぎいんぎいん</rt></ruby>とがある。",
+          "hyouki": [
+            "国会議員"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。",
+          "hyouki": [
+            "経営"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>生</rb><rt>う</rt></ruby>まれたときから<ruby><rb>持</rb><rt>も</rt></ruby>っている、<ruby><rb>自由</rb><rt>じゆう</rt></ruby>・<ruby><rb>平等</rb><rt>びょうどう</rt></ruby>などの<ruby><rb>権利</rb><rt>けんり</rt></ruby>。",
+          "hyouki": [
+            "人権"
+          ]
+        }
+      ]
+    }
+  }
+}

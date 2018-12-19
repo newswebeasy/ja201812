@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011750821000",
+  "news_prearranged_time": "2018-12-19 16:50:00",
+  "title": "サンタクロースの村　もうすぐクリスマスで忙しい",
+  "title_with_ruby": "サンタクロースの<ruby>村<rt>むら</rt></ruby>　もうすぐクリスマスで<ruby>忙<rt>いそが</rt></ruby>しい",
+  "outline_with_ruby": "<p>フィンランドのロバニエミにある<ruby>村<rt>むら</rt></ruby>には<a href='javascript:void(0)' class='dicWin' id='id-0000'>サンタクロース</a>が<ruby>住<rt>す</rt></ruby>んでいると<ruby>言<rt>い</rt></ruby>われています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181218/../20181218/K10011750821_1812181033_1812181049_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011750821000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011750821000/k10011750821000.html"
+}

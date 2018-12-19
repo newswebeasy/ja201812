@@ -1,0 +1,30 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>暮</rb><rt>く</rt></ruby>れに、その<ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>苦労</rb><rt>くろう</rt></ruby>などを<ruby><rb>忘</rb><rt>わす</rt></ruby>れるために<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>宴会</rb><rt>えんかい</rt></ruby>。<ruby><rb>年忘</rb><rt>としわす</rt></ruby>れの<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "忘年会"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。",
+          "hyouki": [
+            "参加"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "調査"
+          ]
+        }
+      ]
+    }
+  }
+}
