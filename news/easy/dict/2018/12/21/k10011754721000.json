@@ -1,0 +1,38 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>磁石</rb><rt>じしゃく</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>して、<ruby><rb>車体</rb><rt>しゃたい</rt></ruby>をうき<ruby><rb>上</rb><rt>あ</rt></ruby>がらせて<ruby><rb>走</rb><rt>はし</rt></ruby>る<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>。<ruby><rb>音</rb><rt>おと</rt></ruby>が<ruby><rb>静</rb><rt>しず</rt></ruby>かで、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>走</rb><rt>はし</rt></ruby>ることができる。",
+          "hyouki": [
+            "リニアモーターカー"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>・<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>などのこと。また、その<ruby><rb>一台</rb><rt>いちだい</rt></ruby><ruby><rb>一台</rb><rt>いちだい</rt></ruby>。",
+          "hyouki": [
+            "車両"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。",
+          "hyouki": [
+            "地球"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>を、いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>けたものの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "部分"
+          ]
+        }
+      ]
+    }
+  }
+}

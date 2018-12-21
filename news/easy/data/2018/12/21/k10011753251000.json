@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011753251000",
+  "news_prearranged_time": "2018-12-21 11:30:00",
+  "title": "ＮＨＫ　中国語のニュースや番組をインターネットで流す",
+  "title_with_ruby": "ＮＨＫ　<ruby>中国語<rt>ちゅうごくご</rt></ruby>のニュースや<ruby>番組<rt>ばんぐみ</rt></ruby>をインターネットで<ruby>流<rt>なが</rt></ruby>す",
+  "outline_with_ruby": "<p>ＮＨＫは、<ruby>中国語<rt>ちゅうごくご</rt></ruby>のニュースや<ruby>番組<rt>ばんぐみ</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>動画<rt>どうが</rt></ruby></a>をインターネットで<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>流<rt>なが</rt></ruby>す</a><a href='javascript:void(0)' class='dicWin' id='id-0002'>サービス</a>を、<ruby>来年<rt>らいねん</rt></ruby>の１<ruby>月<rt>がつ</rt></ruby>１５<ruby>日<rt>にち</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めます。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181219/../20181219/K10011753251_1812192011_1812192012_01_03.jpg",
+  "news_web_movie_uri": "k10011753251_201812192011_201812192012.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011753251000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011753251000/k10011753251000.html"
+}

@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>などの<ruby><rb>音声情報</rb><rt>おんせいじょうほう</rt></ruby>を<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>にして<ruby><rb>記録</rb><rt>きろく</rt></ruby>した<ruby><rb>円盤</rb><rt>えんばん</rt></ruby>。",
+          "hyouki": [
+            "CD"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音声</rb><rt>おんせい</rt></ruby>などを<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>に<ruby><rb>変</rb><rt>か</rt></ruby>えて、<ruby><rb>記録</rb><rt>きろく</rt></ruby>し<ruby><rb>再生</rb><rt>さいせい</rt></ruby>するディスク。",
+          "hyouki": [
+            "DVD"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>歌</rb><rt>うた</rt></ruby>を<ruby><rb>歌</rb><rt>うた</rt></ruby>うことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "歌手"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。",
+          "hyouki": [
+            "辞める"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。<ruby><rb>文学</rb><rt>ぶんがく</rt></ruby>・<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>・<ruby><rb>美術</rb><rt>びじゅつ</rt></ruby>などで、<ruby><rb>作者</rb><rt>さくしゃ</rt></ruby>が<ruby><rb>創造</rb><rt>そうぞう</rt></ruby>したもの。",
+          "hyouki": [
+            "作品"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ]
+    }
+  }
+}

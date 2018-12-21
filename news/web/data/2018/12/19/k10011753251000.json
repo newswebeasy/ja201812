@@ -18,11 +18,18 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011753251000/k10011753251000.html",
+      "title": "ＮＨＫ 中国語のニュースや番組をインターネットで流す",
+      "time": "NEWSWEB EASY 12月21日",
+      "datetime": "2018-12-21"
+    }
+  ],
   "word": [],
   "news_id": "k10011753251000",
   "yyyy": "2018",
   "mm": "12",
   "dd": "19",
-  "url": "https://www3.nhk.or.jp/news/html/20181219/k10011753251000.html?utm_int=news-new_contents_list-items_011"
+  "url": "https://www3.nhk.or.jp/news/html/20181219/k10011753251000.html"
 }

@@ -1,0 +1,148 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>などにうかべて<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "よごれを<ruby><rb>洗</rb><rt>あら</rt></ruby>い<ruby><rb>落</rb><rt>お</rt></ruby>とす。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "うわさなどを<ruby><rb>広</rb><rt>ひろ</rt></ruby>める。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>予定</rb><rt>よてい</rt></ruby>していたことを、<ruby><rb>取</rb><rt>と</rt></ruby>りやめる。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "そのことを<ruby><rb>気</rb><rt>き</rt></ruby>に<ruby><rb>留</rb><rt>と</rt></ruby>めない。",
+          "hyouki": [
+            "流す"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>動</rb><rt>うご</rt></ruby>いている<ruby><rb>画像</rb><rt>がぞう</rt></ruby>。<ruby><rb>静止画</rb><rt>せいしが</rt></ruby>（<ruby><rb>静止</rb><rt>せいし</rt></ruby>している<ruby><rb>画像</rb><rt>がぞう</rt></ruby>）に<ruby><rb>対</rb><rt>たい</rt></ruby>していう。<ruby><rb>動画像</rb><rt>どうがぞう</rt></ruby>。",
+          "hyouki": [
+            "動画"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。",
+          "hyouki": [
+            "サービス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "サービス"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>などにうかべて<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "よごれを<ruby><rb>洗</rb><rt>あら</rt></ruby>い<ruby><rb>落</rb><rt>お</rt></ruby>とす。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "うわさなどを<ruby><rb>広</rb><rt>ひろ</rt></ruby>める。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>予定</rb><rt>よてい</rt></ruby>していたことを、<ruby><rb>取</rb><rt>と</rt></ruby>りやめる。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "そのことを<ruby><rb>気</rb><rt>き</rt></ruby>に<ruby><rb>留</rb><rt>と</rt></ruby>めない。",
+          "hyouki": [
+            "流す"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>事実</rb><rt>じじつ</rt></ruby>をありのままに<ruby><rb>記録</rb><rt>きろく</rt></ruby>した<ruby><rb>小説</rb><rt>しょうせつ</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>など。",
+          "hyouki": [
+            "ドキュメンタリー"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ]
+    }
+  }
+}
