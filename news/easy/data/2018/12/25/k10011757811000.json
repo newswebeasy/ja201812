@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011757811000",
+  "news_prearranged_time": "2018-12-25 15:35:00",
+  "title": "天皇陛下の８５歳の誕生日　８万人以上がお祝いに行く",
+  "title_with_ruby": "<ruby>天皇<rt>てんのう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>の８５<ruby>歳<rt>さい</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>　８<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>がお<ruby>祝<rt>いわ</rt></ruby>いに<ruby>行<rt>い</rt></ruby>く",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>天皇<rt>てんのう</rt></ruby></a><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>陛下<rt>へいか</rt></ruby></a>は２３<ruby>日<rt>にち</rt></ruby>に８５<ruby>歳<rt>さい</rt></ruby>になりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181223/../20181223/K10011757811_1812231216_1812231222_01_03.jpg",
+  "news_web_movie_uri": "k10011757811_201812231216_201812231221.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011757811000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011757811000/k10011757811000.html"
+}

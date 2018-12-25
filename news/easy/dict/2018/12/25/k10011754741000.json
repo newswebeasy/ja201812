@@ -1,0 +1,164 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>悪事</rb><rt>あくじ</rt></ruby>に<ruby><rb>対</rb><rt>たい</rt></ruby>するこらしめ。",
+          "hyouki": [
+            "罰"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となって、<ruby><rb>各地</rb><rt>かくち</rt></ruby>の<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>を<ruby><rb>指揮</rb><rt>しき</rt></ruby>する<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "警察庁"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "エンジンで<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>二輪車</rb><rt>にりんしゃ</rt></ruby>。<ruby><rb>自動二輪車</rb><rt>じどうにりんしゃ</rt></ruby>。バイク。",
+          "hyouki": [
+            "オートバイ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ことがら。できごと。",
+          "hyouki": [
+            "件"
+          ]
+        },
+        {
+          "def": "ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "件"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>遊</rb><rt>あそ</rt></ruby>び。",
+          "hyouki": [
+            "ゲーム"
+          ]
+        },
+        {
+          "def": "<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "ゲーム"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>考</rb><rt>かんが</rt></ruby>え。<ruby><rb>計画</rb><rt>けいかく</rt></ruby>。",
+          "hyouki": [
+            "案"
+          ]
+        },
+        {
+          "def": "<ruby><rb>相談</rb><rt>そうだん</rt></ruby>のことがら。",
+          "hyouki": [
+            "案"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>罰</rb><rt>ばつ</rt></ruby>として<ruby><rb>出</rb><rt>だ</rt></ruby>させるお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "罰金"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>刑務所</rb><rt>けいむしょ</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れて、<ruby><rb>罪</rb><rt>つみ</rt></ruby>をつぐなうために<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をさせること。",
+          "hyouki": [
+            "懲役"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "（<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "ほりかえす。",
+          "hyouki": [
+            "起こす"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>のやり<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>相談</rb><rt>そうだん</rt></ruby>して<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>。<ruby><rb>衆議院</rb><rt>しゅうぎいん</rt></ruby>と<ruby><rb>参議院</rb><rt>さんぎいん</rt></ruby>とがある。",
+          "hyouki": [
+            "国会"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。",
+          "hyouki": [
+            "話し合う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "話し合う"
+          ]
+        }
+      ]
+    }
+  }
+}

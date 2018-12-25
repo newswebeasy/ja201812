@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011758591000",
+  "news_prearranged_time": "2018-12-25 15:35:00",
+  "title": "インドネシア　津波で３７３人が亡くなる",
+  "title_with_ruby": "インドネシア　<ruby>津波<rt>つなみ</rt></ruby>で３７３<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる",
+  "outline_with_ruby": "<p>インドネシアで２２<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、ジャワ<ruby>島<rt>とう</rt></ruby>とスマトラ<ruby>島<rt>とう</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>にある<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>火山<rt>かざん</rt></ruby></a>が<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>噴火<rt>ふんか</rt></ruby></a>して、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>津波<rt>つなみ</rt></ruby></a>が<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>起<rt>お</rt></ruby>こり</a>ました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181224/../20181224/K10011758591_1812242358_1812250019_01_03.jpg",
+  "news_web_movie_uri": "k10011758591_201812242358_201812250019.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011758591000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011758591000/k10011758591000.html"
+}

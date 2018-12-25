@@ -1,0 +1,136 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>象徴</rb><rt>しょうちょう</rt></ruby>としてあおがれている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "天皇"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>や<ruby><rb>皇后</rb><rt>こうごう</rt></ruby>などを<ruby><rb>敬</rb><rt>うやま</rt></ruby>って<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶことば。",
+          "hyouki": [
+            "陛下"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>国王</rb><rt>こくおう</rt></ruby>などが<ruby><rb>位</rb><rt>くらい</rt></ruby>を<ruby><rb>退</rb><rt>しりぞ</rt></ruby>くこと。",
+          "hyouki": [
+            "退位"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>の<ruby><rb>住</rb><rt>す</rt></ruby>まい。<ruby><rb>宮城</rb><rt>きゅうじょう</rt></ruby>。",
+          "hyouki": [
+            "皇居"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>洋風</rb><rt>ようふう</rt></ruby>の<ruby><rb>建物</rb><rt>たてもの</rt></ruby>から<ruby><rb>張</rb><rt>は</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>した、ひさしのあるえんがわ。",
+          "hyouki": [
+            "ベランダ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ゆり<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "まき<ruby><rb>散</rb><rt>ち</rt></ruby>らす。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>割</rb><rt>わ</rt></ruby>り<ruby><rb>当</rb><rt>あ</rt></ruby>てる。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "つける。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "やめる。<ruby><rb>断</rb><rt>ことわ</rt></ruby>る。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "むだにする。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>きを<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "振る"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。",
+          "hyouki": [
+            "災害"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "（<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが）がまんできないほど<ruby><rb>苦</rb><rt>くる</rt></ruby>しい。",
+          "hyouki": [
+            "つらい"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "（<ruby><rb>神</rb><rt>かみ</rt></ruby>や<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>やほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>に）こうしてほしいと<ruby><rb>思</rb><rt>おも</rt></ruby>う。たのむ。<ruby><rb>望</rb><rt>のぞ</rt></ruby>む。",
+          "hyouki": [
+            "願う"
+          ]
+        }
+      ]
+    }
+  }
+}
