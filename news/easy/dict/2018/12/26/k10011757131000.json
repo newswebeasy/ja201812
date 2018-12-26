@@ -1,0 +1,54 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>赤</rb><rt>あか</rt></ruby>みのある<ruby><rb>茎</rb><rt>くき</rt></ruby>に、<ruby><rb>秋</rb><rt>あき</rt></ruby>の<ruby><rb>初</rb><rt>はじ</rt></ruby>めごろ、<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>花</rb><rt>はな</rt></ruby>をつける。<ruby><rb>実</rb><rt>み</rt></ruby>からそば<ruby><rb>粉</rb><rt>こ</rt></ruby>をとる。",
+          "hyouki": [
+            "そば"
+          ]
+        },
+        {
+          "def": "そば<ruby><rb>粉</rb><rt>こ</rt></ruby>を<ruby><rb>水</rb><rt>みず</rt></ruby>でこねて<ruby><rb>細</rb><rt>ほそ</rt></ruby>く<ruby><rb>切</rb><rt>き</rt></ruby>った、めん<ruby><rb>類</rb><rt>るい</rt></ruby>。",
+          "hyouki": [
+            "そば"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わったあとにできるもの。<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>種</rb><rt>たね</rt></ruby>がある。",
+          "hyouki": [
+            "実"
+          ]
+        },
+        {
+          "def": "<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>の<ruby><rb>種</rb><rt>たね</rt></ruby>。",
+          "hyouki": [
+            "実"
+          ]
+        },
+        {
+          "def": "みそしるなどの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れる、<ruby><rb>野菜</rb><rt>やさい</rt></ruby>・<ruby><rb>肉</rb><rt>にく</rt></ruby>など。",
+          "hyouki": [
+            "実"
+          ]
+        },
+        {
+          "def": "<ruby><rb>中身</rb><rt>なかみ</rt></ruby>。",
+          "hyouki": [
+            "実"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "（<ruby><rb>神</rb><rt>かみ</rt></ruby>や<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>やほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>に）こうしてほしいと<ruby><rb>思</rb><rt>おも</rt></ruby>う。たのむ。<ruby><rb>望</rb><rt>のぞ</rt></ruby>む。",
+          "hyouki": [
+            "願う"
+          ]
+        }
+      ]
+    }
+  }
+}
