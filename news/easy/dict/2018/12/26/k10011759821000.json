@@ -1,0 +1,68 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>悪性</rb><rt>あくせい</rt></ruby>のはれものができる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にできたがん<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>がどんどん<ruby><rb>増</rb><rt>ふ</rt></ruby>えて<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>害</rb><rt>がい</rt></ruby>をあたえる。",
+          "hyouki": [
+            "がん"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "（<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが）がまんできないほど<ruby><rb>苦</rb><rt>くる</rt></ruby>しい。",
+          "hyouki": [
+            "つらい"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>痛</rb><rt>いた</rt></ruby>いと<ruby><rb>感</rb><rt>かん</rt></ruby>じること。",
+          "hyouki": [
+            "痛み"
+          ]
+        },
+        {
+          "def": "<ruby><rb>苦</rb><rt>くる</rt></ruby>しみやなやみ。",
+          "hyouki": [
+            "痛み"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "（<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが）がまんできないほど<ruby><rb>苦</rb><rt>くる</rt></ruby>しい。",
+          "hyouki": [
+            "つらい"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがの<ruby><rb>手当</rb><rt>てあ</rt></ruby>てをして<ruby><rb>治</rb><rt>なお</rt></ruby>すこと。",
+          "hyouki": [
+            "治療"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>が<ruby><rb>病人</rb><rt>びょうにん</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べて、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>のようすを<ruby><rb>判断</rb><rt>はんだん</rt></ruby>すること。",
+          "hyouki": [
+            "診察"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ものごとが<ruby><rb>何回</rb><rt>なんかい</rt></ruby><ruby><rb>起</rb><rt>お</rt></ruby>こったか、<ruby><rb>行</rb><rt>おこな</rt></ruby>われたかという<ruby><rb>数</rb><rt>かず</rt></ruby>。",
+          "hyouki": [
+            "回数"
+          ]
+        }
+      ]
+    }
+  }
+}

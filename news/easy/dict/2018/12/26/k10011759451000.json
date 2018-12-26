@@ -1,0 +1,94 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>東</rb><rt>ひがし</rt></ruby>と<ruby><rb>日本列島</rb><rt>にほんれっとう</rt></ruby>にはさまれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "日本海"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>風</rb><rt>かぜ</rt></ruby>にふかれて、<ruby><rb>降</rb><rt>ふ</rt></ruby>る<ruby><rb>雪</rb><rt>ゆき</rt></ruby>。",
+          "hyouki": [
+            "吹雪"
+          ]
+        },
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かいものがいっせいにたくさん<ruby><rb>散</rb><rt>ち</rt></ruby>るようす。",
+          "hyouki": [
+            "吹雪"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>などの<ruby><rb>水面</rb><rt>すいめん</rt></ruby>が、<ruby><rb>高</rb><rt>たか</rt></ruby>くなったり<ruby><rb>低</rb><rt>ひく</rt></ruby>くなったりすること。また、<ruby><rb>水面</rb><rt>すいめん</rt></ruby>が<ruby><rb>高</rb><rt>たか</rt></ruby>く<ruby><rb>盛</rb><rt>も</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>がっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "波"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>が、<ruby><rb>上</rb><rt>あ</rt></ruby>がったり<ruby><rb>下</rb><rt>さ</rt></ruby>がったり、また、よくなったり<ruby><rb>悪</rb><rt>わる</rt></ruby>くなったりすること。",
+          "hyouki": [
+            "波"
+          ]
+        },
+        {
+          "def": "つぎつぎとおし<ruby><rb>寄</rb><rt>よ</rt></ruby>せるものをたとえていうことば。",
+          "hyouki": [
+            "波"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "太平洋"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かい<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>重</rb><rt>かさ</rt></ruby>なってたまる。",
+          "hyouki": [
+            "積もる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じようなことが<ruby><rb>何度</rb><rt>なんど</rt></ruby>も<ruby><rb>重</rb><rt>かさ</rt></ruby>なって、だんだん<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。",
+          "hyouki": [
+            "積もる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>冬</rb><rt>ふゆ</rt></ruby>に<ruby><rb>学校</rb><rt>がっこう</rt></ruby>などが<ruby><rb>休</rb><rt>やす</rt></ruby>みになること。<ruby><rb>正月</rb><rt>しょうがつ</rt></ruby>の<ruby><rb>前後</rb><rt>ぜんご</rt></ruby>の<ruby><rb>休</rb><rt>やす</rt></ruby>み。",
+          "hyouki": [
+            "冬休み"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>生</rb><rt>う</rt></ruby>まれ<ruby><rb>育</rb><rt>そだ</rt></ruby>った<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>故郷</rb><rt>こきょう</rt></ruby>。",
+          "hyouki": [
+            "ふるさと"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ]
+    }
+  }
+}
