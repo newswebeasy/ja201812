@@ -1,0 +1,88 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>どもに、<ruby><rb>集団生活</rb><rt>しゅうだんせいかつ</rt></ruby>に<ruby><rb>慣</rb><rt>な</rt></ruby>れさせるため、いろいろのことを<ruby><rb>教</rb><rt>おし</rt></ruby>える<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "幼稚園"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>包</rb><rt>つつ</rt></ruby>んでいる<ruby><rb>皮</rb><rt>かわ</rt></ruby>。<ruby><rb>肌</rb><rt>はだ</rt></ruby>。",
+          "hyouki": [
+            "皮膚"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>がむずむずして、かきたくなる。",
+          "hyouki": [
+            "かゆい"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>教育</rb><rt>きょういく</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>についての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や<ruby><rb>科学技術</rb><rt>かがくぎじゅつ</rt></ruby>を<ruby><rb>発展</rb><rt>はってん</rt></ruby>させる<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>文科省</rb><rt>もんかしょう</rt></ruby>。",
+          "hyouki": [
+            "文部科学省"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "調査"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>のつごうで<ruby><rb>決</rb><rt>き</rt></ruby>めた１<ruby><rb>年</rb><rt>ねん</rt></ruby>の<ruby><rb>期間</rb><rt>きかん</rt></ruby>。ふつう４<ruby><rb>月</rb><rt>がつ</rt></ruby><ruby><rb>１日</rb><rt>ついたち</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まり、<ruby><rb>翌年</rb><rt>よくねん</rt></ruby>の３<ruby><rb>月</rb><rt>がつ</rt></ruby>３１<ruby><rb>日</rb><rt>にち</rt></ruby>に<ruby><rb>終</rb><rt>お</rt></ruby>わる。",
+          "hyouki": [
+            "年度"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "かわくこと。また、かわかすこと。",
+          "hyouki": [
+            "乾燥"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>・<ruby><rb>卵</rb><rt>たまご</rt></ruby>・<ruby><rb>砂糖</rb><rt>さとう</rt></ruby>などを<ruby><rb>混</rb><rt>ま</rt></ruby>ぜて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "クリーム"
+          ]
+        },
+        {
+          "def": "はだやかみの<ruby><rb>毛</rb><rt>け</rt></ruby>につける、けしょう<ruby><rb>品</rb><rt>ひん</rt></ruby>。",
+          "hyouki": [
+            "クリーム"
+          ]
+        },
+        {
+          "def": "くつずみ。",
+          "hyouki": [
+            "クリーム"
+          ]
+        },
+        {
+          "def": "「アイスクリーム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "クリーム"
+          ]
+        }
+      ]
+    }
+  }
+}

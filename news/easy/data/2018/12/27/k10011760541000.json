@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011760541000",
+  "news_prearranged_time": "2018-12-27 15:45:00",
+  "title": "東京オリンピックのボランティア　１８万人以上が申し込む",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピックのボランティア　１８<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>む",
+  "outline_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'>オリンピック</a>と<a href='javascript:void(0)' class='dicWin' id='id-0003'>パラリンピック</a>を<ruby>開<rt>ひら</rt></ruby>きます。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181226/../20181226/K10011760541_1812261829_1812261831_01_03.jpg",
+  "news_web_movie_uri": "k10011760541_201812261829_201812261830.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011760541000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011760541000/k10011760541000.html"
+}

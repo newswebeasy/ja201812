@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011759421000",
+  "news_prearranged_time": "2018-12-27 11:30:00",
+  "title": "アトピー性皮膚炎の子ども　幼稚園では少なくなった",
+  "title_with_ruby": "アトピー<ruby>性<rt>せい</rt></ruby><ruby>皮膚炎<rt>ひふえん</rt></ruby>の<ruby>子<rt>こ</rt></ruby>ども　<ruby>幼稚園<rt>ようちえん</rt></ruby>では<ruby>少<rt>すく</rt></ruby>なくなった",
+  "outline_with_ruby": "<p>アトピー<ruby>性<rt>せい</rt></ruby><ruby>皮膚炎<rt>ひふえん</rt></ruby>は、<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>皮膚<rt>ひふ</rt></ruby></a>が<ruby>赤<rt>あか</rt></ruby>くなって、とても<a href='javascript:void(0)' class='dicWin' id='id-0002'>かゆく</a>なる<ruby>病気<rt>びょうき</rt></ruby>です。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181226/../20181226/K10011759421_1812251956_1812260518_01_02.jpg",
+  "news_web_movie_uri": "k10011759421_201812260522_201812260526.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011759421000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011759421000/k10011759421000.html"
+}
