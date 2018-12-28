@@ -1,0 +1,80 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の、<ruby><rb>学問</rb><rt>がくもん</rt></ruby>や<ruby><rb>平和</rb><rt>へいわ</rt></ruby>のためにりっぱな<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をした<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>毎年</rb><rt>まいとし</rt></ruby>あたえられる<ruby><rb>賞</rb><rt>しょう</rt></ruby>。<ruby><rb>化学者</rb><rt>かがくしゃ</rt></ruby>ノーベルの<ruby><rb>遺言</rb><rt>ゆいごん</rt></ruby>で、この<ruby><rb>制度</rb><rt>せいど</rt></ruby>ができた。",
+          "hyouki": [
+            "ノーベル賞"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "（おおやけの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>・<ruby><rb>寺</rb><rt>てら</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けるために）お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "寄付"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>大学</rb><rt>だいがく</rt></ruby>の<ruby><rb>先生</rb><rt>せんせい</rt></ruby>。",
+          "hyouki": [
+            "教授"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>にものを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "教授"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ほめる。たたえる。",
+          "hyouki": [
+            "賞"
+          ]
+        },
+        {
+          "def": "ほうび。",
+          "hyouki": [
+            "賞"
+          ]
+        },
+        {
+          "def": "<ruby><rb>味</rb><rt>あじ</rt></ruby>わって<ruby><rb>楽</rb><rt>たの</rt></ruby>しむ。",
+          "hyouki": [
+            "賞"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "記者"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ある<ruby><rb>活動</rb><rt>かつどう</rt></ruby>のために、<ruby><rb>積</rb><rt>つ</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てておくお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "基金"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>挑戦</rb><rt>ちょうせん</rt></ruby>。",
+          "hyouki": [
+            "チャレンジ"
+          ]
+        }
+      ]
+    }
+  }
+}

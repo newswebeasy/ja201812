@@ -1,0 +1,116 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>き。<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>。",
+          "hyouki": [
+            "方向"
+          ]
+        },
+        {
+          "def": "<ruby><rb>目当</rb><rt>めあ</rt></ruby>て。<ruby><rb>方針</rb><rt>ほうしん</rt></ruby>。",
+          "hyouki": [
+            "方向"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>顔</rb><rt>かお</rt></ruby>や<ruby><rb>体</rb><rt>からだ</rt></ruby>をそのほうへ<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "向く"
+          ]
+        },
+        {
+          "def": "そのほうに<ruby><rb>面</rb><rt>めん</rt></ruby>している。",
+          "hyouki": [
+            "向く"
+          ]
+        },
+        {
+          "def": "うまく<ruby><rb>合</rb><rt>あ</rt></ruby>う。<ruby><rb>適</rb><rt>てき</rt></ruby>している。",
+          "hyouki": [
+            "向く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。",
+          "hyouki": [
+            "向く"
+          ]
+        },
+        {
+          "def": "あるほうへ<ruby><rb>進</rb><rt>すす</rt></ruby>む。",
+          "hyouki": [
+            "向く"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "（<ruby><rb>外</rb><rt>そと</rt></ruby>から<ruby><rb>見</rb><rt>み</rt></ruby>た）<ruby><rb>人</rb><rt>ひと</rt></ruby>やものごとのようす。",
+          "hyouki": [
+            "状態"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>中</rb><rt>なか</rt></ruby>のほう。",
+          "hyouki": [
+            "内側"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ある<ruby><rb>問題</rb><rt>もんだい</rt></ruby>についての<ruby><rb>考</rb><rt>かんが</rt></ruby>えや、<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>した<ruby><rb>結果</rb><rt>けっか</rt></ruby>を、<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てて<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>。",
+          "hyouki": [
+            "論文"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>専門</rb><rt>せんもん</rt></ruby>の<ruby><rb>学問</rb><rt>がくもん</rt></ruby>を、<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>するためにできている<ruby><rb>研究者</rb><rt>けんきゅうしゃ</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。また、その<ruby><rb>会合</rb><rt>かいごう</rt></ruby>。",
+          "hyouki": [
+            "学会"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ]
+    }
+  }
+}

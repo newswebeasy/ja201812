@@ -1,0 +1,88 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中央部</rb><rt>ちゅうおうぶ</rt></ruby>にすむけもの。ジャイアントパンダとレッサーパンダがいる。",
+          "hyouki": [
+            "パンダ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>特</rb><rt>とく</rt></ruby>にジャイアントパンダ。<ruby><rb>中国西部</rb><rt>ちゅうごくせいぶ</rt></ruby>の<ruby><rb>山地</rb><rt>さんち</rt></ruby>にすむ。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>に<ruby><rb>色分</rb><rt>いろわ</rt></ruby>けされて、<ruby><rb>顔</rb><rt>かお</rt></ruby>つきや<ruby><rb>動作</rb><rt>どうさ</rt></ruby>がかわいい。",
+          "hyouki": [
+            "パンダ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "くっついていたものが<ruby><rb>分</rb><rt>わ</rt></ruby>かれる。",
+          "hyouki": [
+            "離れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>距離</rb><rt>きょり</rt></ruby>がある。",
+          "hyouki": [
+            "離れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>間</rb><rt>あいだ</rt></ruby>があく。",
+          "hyouki": [
+            "離れる"
+          ]
+        },
+        {
+          "def": "やめる。",
+          "hyouki": [
+            "離れる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ものごとの<ruby><rb>動</rb><rt>うご</rt></ruby>きや<ruby><rb>乱</rb><rt>みだ</rt></ruby>れがおさまる。",
+          "hyouki": [
+            "落ち着く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>住</rb><rt>す</rt></ruby>まいや<ruby><rb>勤</rb><rt>つと</rt></ruby>め<ruby><rb>先</rb><rt>さき</rt></ruby>が、<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "落ち着く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>静</rb><rt>しず</rt></ruby>かでゆったりしている。",
+          "hyouki": [
+            "落ち着く"
+          ]
+        },
+        {
+          "def": "しっくり<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "落ち着く"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>空</rb><rt>から</rt></ruby>の<ruby><rb>茎</rb><rt>くき</rt></ruby>に、<ruby><rb>節</rb><rt>ふし</rt></ruby>のある<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>や、<ruby><rb>細工物</rb><rt>さいくもの</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>芽</rb><rt>め</rt></ruby>を「たけのこ」という。",
+          "hyouki": [
+            "竹"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>寒</rb><rt>さむ</rt></ruby>い<ruby><rb>地方</rb><rt>ちほう</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>られる<ruby><rb>果物</rb><rt>くだもの</rt></ruby>。あまずっぱくて、かおりがよい。<ruby><rb>五月</rb><rt>ごがつ</rt></ruby>ごろ<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>き、<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>実</rb><rt>みの</rt></ruby>る。",
+          "hyouki": [
+            "りんご"
+          ]
+        }
+      ]
+    }
+  }
+}
